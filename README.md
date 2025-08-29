@@ -1,5 +1,5 @@
 # TritonScript
-
+# TRY
 #### Repository for the Open Source Project undertaken by the Computer Science and Engineering Society @ UC San Diego.
 
 Welcome to the CSES Open Source Class Notes Repository Project! This repository is a collaborative effort undertaken by the Computer Science and Engineering Society (CSES) at the University of California, San Diego (UCSD). In this README, we'll provide an overview of the project, how it works, and how you can contribute.
